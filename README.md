@@ -1,6 +1,4 @@
-# Data Scientist
-
-## Education
+## EDUCATION
 
 ### Master of Science, Computer Science
 #### Depaul University, Chicago. (GPA - 3.8)
@@ -16,7 +14,7 @@ Advanced Data Science courses- Programming Machine Learning Algorithms, Advanced
 
 Courses: Mathematics, Physics, Chemistry Statistics, Data Structure, Algorithms, Compiler Design, Cybersecurity, Internet of things, UI Desgin, Microprocessor and Assembly language, Java, J2EE, Database, Computer Architecture, OpenGL, Computer Graphics, Big Data, Data mining, Artificial Intelligence, Software Engineering, Unix
 
-## Work Experience
+## WORK EXPERIENCE
 ### Software Engineer at Oracle
 
 •	Performed Defect correction and management of ETL sctipts and report produced using SQL, OCI and Tableau. 
