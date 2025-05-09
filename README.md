@@ -16,7 +16,7 @@ Advanced Data Science courses- Programming Machine Learning Algorithms, Advanced
 NIE, India.
 GPA - 3.3
 
-Courses: Mathematics, Statistics, Big Data, Data mining, Artificial Intelligence, Software development, Unix
+Courses: Mathematics, Physics, Chemistry Statistics, Data Structure, Algorithms, Compiler Design, Cybersecurity, Internet of things, UI Desgin, Microprocessor and Assembly language, Java, J2EE, Database, Computer Architecture, OpenGL, Computer Graphics, Big Data, Data mining, Artificial Intelligence, Software Engineering, Unix
 
 ### Experience
 Software Engineer at Oracle
