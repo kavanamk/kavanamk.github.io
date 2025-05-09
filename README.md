@@ -1,6 +1,7 @@
 # Data Scientist
 
 ### Education
+
 #### Master of Science, Computer Science
 Depaul University, Chicago.
 GPA - 3.8
@@ -10,10 +11,12 @@ Foundational CS courses- Object oriented programming, Distributed System, Databa
 Foundational Data Science courses- Fundamentals of Data Science in R, Data Visualization, Data Regression and analysis, Image Processing 
 
 Advanced Data Science courses- Programming Machine Learning Algorithms, Advanced Machine Learning, Computer Vision
+
 #### Bachelors in Computer Science
 NIE, India.
 GPA - 3.3
 
+Courses: Mathematics, Statistics, Big Data, Data mining, Artificial Intelligence, Software development, Unix
 
 ### Experience
 Software Engineer at Oracle
