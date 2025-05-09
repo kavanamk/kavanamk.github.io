@@ -5,93 +5,63 @@
   <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
   <title>Kavana's Portfolio</title>
   <link rel="stylesheet" href="style.css" />
+  <link href="https://fonts.googleapis.com/css2?family=Roboto+Mono&display=swap" rel="stylesheet">
 </head>
 <body>
-  <header>
-    <div class="intro">
-      <div class="text">
-        <h1>Hi, I'm Kavana!</h1>
-        <p>The secret ingredient behind my great coding skills is love.<br>
-        Also backed by hard work, discipline, and years of consistency.<br>
-        I’m passionate about Machine Learning, Data Analytics & Software Engineering.<br>
-        I've solved 300+ LeetCode problems and built cool projects from scratch.</p>
-      </div>
-      <div class="photo">
-        <img src="PATH_TO_PHOTO" alt="Kavana's Photo" />
-      </div>
-    </div>
-  </header>
+  <div class="container">
+    <header>
+      <h1>Hi, I'm Kavana 👋</h1>
+      <p>
+        The secret ingredient behind my great coding skills is - love.<br>
+        Also backed by discipline, and consistency.<br>
+        I'm passionate about ML, data analytics, and solving tough problems (300+ on LeetCode!).
+      </p>
+      <img class="profile" src="PATH_TO_PHOTO" alt="Kavana's Photo" />
+    </header>
 
-  <section class="fit">
-    <h2>I’d be a great fit for these roles</h2>
-    <div class="roles">
-      <img src="PATH_TO_IMAGE_1" alt="Data Scientist" />
-      <img src="PATH_TO_IMAGE_2" alt="ML Engineer" />
-      <img src="PATH_TO_IMAGE_3" alt="Full Stack Developer" />
-      <img src="PATH_TO_IMAGE_4" alt="Software Engineer" />
-    </div>
-  </section>
+    <section>
+      <h2>🔍 I'm a great fit for these roles</h2>
+      <div class="image-grid">
+        <img src="PATH_TO_IMAGE_1" alt="Role 1" />
+        <img src="PATH_TO_IMAGE_2" alt="Role 2" />
+        <img src="PATH_TO_IMAGE_3" alt="Role 3" />
+        <img src="PATH_TO_IMAGE_4" alt="Role 4" />
+      </div>
+    </section>
 
-  <section class="about">
-    <h2>About Me</h2>
-    <div class="about-content">
-      <img src="PATH_TO_IMAGE_5" alt="Visual Resume"/>
+    <section>
+      <h2>📌 About Me</h2>
+      <div class="about">
+        <img src="PATH_TO_IMAGE_5" alt="Visual Resume" />
+        <div>
+          <ul>
+            <li><b>B.E. CS:</b> NIE, India (GPA: 3.3)</li>
+            <li><b>Intern:</b> Oracle Cerner (2020)</li>
+            <li><b>Software Engineer:</b> Oracle Health (2020–2023)</li>
+            <li><b>MS CS:</b> DePaul University (2023–2025, GPA: 3.72)</li>
+            <li>Courses: ML, Vision, DS, OOPS, Distributed Systems</li>
+          </ul>
+        </div>
+      </div>
+    </section>
+
+    <section>
+      <h2>🚀 Projects</h2>
       <ul>
-        <li><strong>Current Location:</strong> Chicago, IL, USA</li>
-        <li><strong>Contact:</strong> kavana.manvi@gmail.com | 872-330-3015</li>
-        <li><strong>LinkedIn:</strong> <a href="https://www.linkedin.com/in/kavanamk/" target="_blank">kavanamk</a></li>
-        <li><strong>GitHub:</strong> <a href="https://github.com/kavanamk" target="_blank">kavanamk</a></li>
-        <li><strong>MS in Computer Science:</strong> DePaul University, Chicago (2023–2025, GPA: 3.72)</li>
-        <li>Relevant Courses: Advanced ML, CV, Distributed Systems, Neural Nets, Data Analytics</li>
-        <li><strong>BE in Computer Science:</strong> NIE Institute of Tech, India (2016–2020, GPA: 3.3)</li>
-        <li>Relevant Courses: AI, Big Data, Software Dev, Data Mining</li>
+        <li>💡 Obesity Classification using Decision Trees and KNN (92.95%)</li>
+        <li>💬 Text Sentiment Analysis with Logistic Regression (84.37%)</li>
+        <li>🫀 Heart Failure Prediction using Ensemble Voting (88%)</li>
+        <li>🧠 Autism Screening using SVM (97.2% accuracy, 100% sensitivity)</li>
+        <li>🎨 Generative AI: Deepfakes, Music, GAIL, Transformers</li>
       </ul>
-    </div>
-  </section>
+    </section>
 
-  <section class="experience">
-    <h2>Experience</h2>
-    <ul>
-      <li><strong>Software Engineer – Oracle Health</strong> (2020–2023)
-        <ul>
-          <li>Improved ETL scripts using SQL, OCI & Tableau; reduced runtime from 6 hours to 40 seconds.</li>
-          <li>Led full-stack feature dev across 75+ Jira tickets; awarded “Innovate & Simplify.”</li>
-          <li>Handled 24/7 on-call client investigations, improving system reliability and uptime.</li>
-          <li>Recognized twice as “Star of the Sprint” for proactive testing and team support.</li>
-        </ul>
-      </li>
-      <li><strong>Software Intern – Oracle Cerner</strong> (Jan–Jul 2020)
-        <ul>
-          <li>Built dashboards with ReactJS, Spring Boot & SQL for 30+ revenue cycle teams.</li>
-          <li>Enhanced Jenkins reporting; features praised by leadership for UI design.</li>
-          <li>Created analytics tools for directors to track KPIs & business performance.</li>
-        </ul>
-      </li>
-    </ul>
-  </section>
-
-  <section class="projects">
-    <h2>Projects</h2>
-    <ol>
-      <li><strong>Obesity Classification (R):</strong> Achieved 92.95% accuracy with KNN & Decision Trees after PCA + K-Means clustering.</li>
-      <li><strong>Text Classification (Python):</strong> Sentiment analyzer using TF-IDF & Logistic Regression – 84.37% accuracy.</li>
-      <li><strong>Heart Failure Prediction (Python):</strong> Ensemble model with SVM, Random Forest, and Boosting – 88% accuracy.</li>
-      <li><strong>Autism Screening (Python):</strong> Feature selection + SVM-RBF achieved 97.2% accuracy, 100% sensitivity.</li>
-      <li><strong>Generative AI (TensorFlow 2):</strong> Trained GANs, VAEs, RBMs & LLMs for music, deepfakes & image gen.</li>
-    </ol>
-  </section>
-
-  <section class="skills">
-    <h2>Skills</h2>
-    <ul>
-      <li><strong>Languages:</strong> C, C++, Java, Python, R, SQL, Scala, Spark, PL/SQL</li>
-      <li><strong>Web:</strong> HTML, CSS, JavaScript, ReactJS, PHP, jQuery, AJAX</li>
-      <li><strong>ML & Tools:</strong> TensorFlow, PyTorch, Tableau, MATLAB, Octave, Git, Docker, Jenkins</li>
-      <li><strong>Other Tools:</strong> Excel, MS Office, ADF, ADL, Agile, Jira</li>
-      <li><strong>Soft Skills:</strong> Communication, problem-solving, curiosity, growth mindset</li>
-    </ul>
-  </section>
-
-  <script src="script.js"></script>
+    <footer>
+      <p>📍 Kavana Manvi Krishnamurthy | Chicago, IL<br>
+      <a href="mailto:kavana.manvi@gmail.com">kavana.manvi@gmail.com</a> | 
+      <a href="https://linkedin.com/in/kavanamk">LinkedIn</a> | 
+      <a href="https://github.com/kavanamk">GitHub</a></p>
+    </footer>
+  </div>
 </body>
 </html>
