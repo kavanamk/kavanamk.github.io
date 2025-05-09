@@ -18,8 +18,8 @@ Advanced Data Science courses- Programming Machine Learning Algorithms, Advanced
 
 Courses: Mathematics, Physics, Chemistry Statistics, Data Structure, Algorithms, Compiler Design, Cybersecurity, Internet of things, UI Desgin, Microprocessor and Assembly language, Java, J2EE, Database, Computer Architecture, OpenGL, Computer Graphics, Big Data, Data mining, Artificial Intelligence, Software Engineering, Unix
 
-#### Work Experience
-##### Software Engineer at Oracle
+## Work Experience
+#### Software Engineer at Oracle
 
 •	Performed Defect correction and management of ETL sctipts and report produced using SQL, OCI and Tableau. 
 
@@ -31,7 +31,7 @@ Courses: Mathematics, Physics, Chemistry Statistics, Data Structure, Algorithms,
 
 •	Conducted 35+ client issue investigations over 6 months to identify root causes.
 
-##### Software Intern at Oracle
+#### Software Intern at Oracle
 
 •	Developed full-stack web features for internal business performance application (eBoard) using ReactJS, Spring Boot, PHP, SQL, HTML, CSS, JavaScript, jQuery, and AJAX.
 
@@ -39,7 +39,7 @@ Courses: Mathematics, Physics, Chemistry Statistics, Data Structure, Algorithms,
 
 •	Created summary and drill-down analytics reports used by directors and senior managers for performance oversight.
 
-#### SKILLS 
+## SKILLS 
 •	Programming Language: C, C++, Java, T-SQL,PL/SQL, Python, Scala, Apache Spark, R,Mysql etc
 
 •	Web Technology: HTML, CSS, JavaScript, PHP, jQuery, AJAX, ReactJS , JSON, XML
@@ -50,7 +50,7 @@ Courses: Mathematics, Physics, Chemistry Statistics, Data Structure, Algorithms,
 
 •	Soft skills: effective communication, problem-solving skills, critical thinking, growth, curiosity, etc
 
-#### PROJECTS 
+## PROJECTS 
 
 •	Obesity Level Classification (R): Collected, cleaned, and pre-processed data. Applied PCA and K-Means clustering. 92.95% accuracy using Decision Trees with pruning and KNN tuned for optimal k values.
 
