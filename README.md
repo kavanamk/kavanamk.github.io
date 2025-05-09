@@ -62,14 +62,6 @@ Courses: Mathematics, Physics, Chemistry Statistics, Data Structure, Algorithms,
 
 •	Gym DBMS | Java, JDBC, SQLite, Swing. Developed an interactive desktop application for gym membership management. Implemented full CRUD operations with local database storage via JDBC.
 
-
-  <footer>
-      <p>📍 Kavana Manvi Krishnamurthy | Chicago, IL<br>
-      <a href="mailto:kavana.manvi@gmail.com">kavana.manvi@gmail.com</a> | 
-      <a href="https://linkedin.com/in/kavanamk">LinkedIn</a> | 
-      <a href="https://github.com/kavanamk">GitHub</a></p>
-    </footer>
-
 •	MVC Audio/Video Store App | Java, Design Patterns. Created a media store desktop GUI using MVC architecture. Applied classic design patterns to handle user interaction, model updates, and UI display.
 
 
