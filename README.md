@@ -24,5 +24,5 @@ Software Engineer at Oracle
 •	Led full-stack development for 75+ Jira tickets, handling issue analysis, design, implementation, and testing.
 •	Improved code runtime from 6–7 hours to 40 seconds, earning 2022 “Innovate and Simplify” Quarterly Award.
 •	Recognised twice as “Star of the Sprint” for exceeding expectations with additional testing alongside sprint deliverables, removing roadblocks. 
-•	Conducted 35+ client issue investigations over 6 months 24/7 on-call support coverage to identify root causes and ![image]
+•	Conducted 35+ client issue investigations over 6 months 24/7 on-call support coverage to identify root causes 
 
