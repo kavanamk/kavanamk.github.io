@@ -1,7 +1,7 @@
 ## EDUCATION
 
 ### Master of Science, Computer Science
-#### Depaul University, Chicago. (GPA - 3.8)
+### Depaul University, Chicago. (GPA - 3.8)
 
 Foundational CS courses-Object oriented programming, Distributed System, Database management system, Computer Programming, Algorithms and Data structures
 
