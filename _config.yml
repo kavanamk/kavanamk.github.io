@@ -2,11 +2,5 @@ title: Kavana Manvi Krishnamurthy
 logo: images/dp3.jpg
 description: The secret ingredient behind my coding skills is - love.  Also discipline and consistency.  I am passionate about Machine Learning, Data Analytics, and solving tough problems (300+ on LeetCode!).
 #show_downloads: true
-theme: jekyll-theme-minimal
+theme: jekyll-theme-minima
 
-  <footer>
-      <p>📍 Kavana Manvi Krishnamurthy | Chicago, IL<br>
-      <a href="mailto:kavana.manvi@gmail.com">kavana.manvi@gmail.com</a> | 
-      <a href="https://linkedin.com/in/kavanamk">LinkedIn</a> | 
-      <a href="https://github.com/kavanamk">GitHub</a></p>
-    </footer>
