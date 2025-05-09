@@ -20,9 +20,4 @@ Courses: Mathematics, Physics, Chemistry Statistics, Data Structure, Algorithms,
 
 ### Experience
 Software Engineer at Oracle
-•	Performed Defect correction and management of ETL sctipts and report produced using SQL and Tableau. 
-•	Led full-stack development for 75+ Jira tickets, handling issue analysis, design, implementation, and testing.
-•	Improved code runtime from 6–7 hours to 40 seconds, earning 2022 “Innovate and Simplify” Quarterly Award.
-•	Recognised twice as “Star of the Sprint” for exceeding expectations with additional testing alongside sprint deliverables, removing roadblocks. 
-•	Conducted 35+ client issue investigations over 6 months 24/7 on-call support coverage to identify root causes 
 
