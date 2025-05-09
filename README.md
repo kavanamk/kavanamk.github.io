@@ -1,6 +1,6 @@
 # Data Scientist
 
-### Education
+## Education
 
 #### Master of Science, Computer Science
 Depaul University, Chicago.
@@ -18,6 +18,6 @@ GPA - 3.3
 
 Courses: Mathematics, Physics, Chemistry Statistics, Data Structure, Algorithms, Compiler Design, Cybersecurity, Internet of things, UI Desgin, Microprocessor and Assembly language, Java, J2EE, Database, Computer Architecture, OpenGL, Computer Graphics, Big Data, Data mining, Artificial Intelligence, Software Engineering, Unix
 
-### Experience
+#### Experience
 Software Engineer at Oracle
 
