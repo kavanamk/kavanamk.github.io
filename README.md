@@ -1,3 +1,41 @@
+## I'd be a great fit for these roles — 
+<style>
+.role-boxes {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 1rem;
+  justify-content: center;
+  margin: 2rem 0;
+}
+
+.role-box {
+  flex: 1 1 200px;
+  max-width: 250px;
+  background-color: #f3f3f3;
+  border: 1px solid #ccc;
+  border-radius: 8px;
+  padding: 1.5rem;
+  text-align: center;
+  font-family: 'Helvetica Neue', sans-serif;
+  font-size: 1.1rem;
+  color: #333;
+  transition: transform 0.3s ease;
+}
+
+.role-box:hover {
+  transform: translateY(-5px);
+  box-shadow: 0 4px 12px rgba(0, 0, 0, 0.1);
+}
+</style>
+
+<div class="role-boxes">
+  <div class="role-box">Data Analyst</div>
+  <div class="role-box">Business Intelligence</div>
+  <div class="role-box">Software Engineer</div>
+  <div class="role-box">Data Scientist</div>
+</div>
+
+
 ## EDUCATION
 
 ### Master of Science, Computer Science
