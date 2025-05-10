@@ -181,7 +181,7 @@
 <div class="project-grid">
 
   <a class="project-box" href="https://github.com/kavanamk/Obesity-Level-Classification" target="_blank">
-    <div class="project-title">Obesity Level Classification (R)</div>
+    <div class="project-title">Obesity Level Classification</div>
     <div class="project-description">Collected, cleaned, and pre-processed data. Applied PCA and K-Means clustering. Achieved 92.95% accuracy using Decision Trees with pruning and KNN tuned for optimal k values.</div>
     <div class="skills">
       <div class="skill-tag">R</div>
@@ -193,18 +193,18 @@
   </a>
 
   <a class="project-box" href="https://github.com/kavanamk/Natural-Language-Processing-using-Python" target="_blank">
-    <div class="project-title">Text Classification (Python, NLTK)</div>
+    <div class="project-title">Text Classification</div>
     <div class="project-description">Built a sentiment analysis pipeline using Bag of Words and TF-IDF with a Logistic Regression classifier. Trained on 2,000 samples and achieved 84.37% accuracy.</div>
     <div class="skills">
       <div class="skill-tag">Python</div>
-      <div class="skill-tag">NLTK</div>
+      <div class="skill-tag">NLP</div>
       <div class="skill-tag">TF-IDF</div>
       <div class="skill-tag">Logistic Regression</div>
     </div>
   </a>
 
   <a class="project-box" href="https://github.com/kavanamk/Programming-ML-Applications/blob/main/Final%20Project/Final_Project.ipynb" target="_blank">
-    <div class="project-title">Heart Failure Prediction (Python, scikit-learn)</div>
+    <div class="project-title">Heart Failure Prediction</div>
     <div class="project-description">Implemented SVM, Decision Trees, and ensemble methods. Developed a weighted voting model using Random Forest, Bagging, and Boosting, reaching 88% accuracy.</div>
     <div class="skills">
       <div class="skill-tag">Python</div>
@@ -217,7 +217,7 @@
   </a>
 
   <a class="project-box" href="https://github.com/kavanamk/Advanced-Machine-Learning/blob/main/AML/FinalProject/Kavana%20Autism%20Word%20doc.pdf" target="_blank">
-    <div class="project-title">Autism Screening (Python, scikit-learn)</div>
+    <div class="project-title">Autism Screening</div>
     <div class="project-description">Used Mutual Information and Recursive Feature Elimination for feature selection. Evaluated XGBoost, SVM-RBF, Logistic Regression, Random Forest, and MLP. Achieved 97.2% CV accuracy and 1.0 sensitivity with SVM-RBF.</div>
     <div class="skills">
       <div class="skill-tag">Python</div>
@@ -241,7 +241,7 @@
   </a>
 
   <a class="project-box" href="https://github.com/kavanamk/Distributed-Systems" target="_blank">
-    <div class="project-title">Distributed File Retrieval Engine (Java)</div>
+    <div class="project-title">Distributed File Retrieval Engine</div>
     <div class="project-description">Built a distributed client-server file retrieval system with Java and ZeroMQ. Implemented multithreaded dispatcher/worker server with TF-based ranked search on Chameleon Cloud.</div>
     <div class="skills">
       <div class="skill-tag">Java</div>
