@@ -1,34 +1,32 @@
-## I'd be a great fit for these roles — 
+## I'd be a great fit for these roles 
 <style>
-.role-boxes {
-  display: flex;
-  flex-wrap: wrap;
-  gap: 1rem;
-  justify-content: center;
-  margin: 2rem 0;
+.role-grid {
+  display: grid;
+  grid-template-columns: repeat(2, 1fr);
+  gap: 1.5rem;
+  max-width: 600px;
+  margin: 2rem auto;
 }
 
 .role-box {
-  flex: 1 1 200px;
-  max-width: 250px;
   background-color: #f3f3f3;
   border: 1px solid #ccc;
   border-radius: 8px;
-  padding: 1.5rem;
+  padding: 2rem;
   text-align: center;
   font-family: 'Helvetica Neue', sans-serif;
   font-size: 1.1rem;
   color: #333;
-  transition: transform 0.3s ease;
+  transition: transform 0.3s ease, box-shadow 0.3s ease;
 }
 
 .role-box:hover {
-  transform: translateY(-5px);
-  box-shadow: 0 4px 12px rgba(0, 0, 0, 0.1);
+  transform: translateY(-4px);
+  box-shadow: 0 6px 10px rgba(0, 0, 0, 0.08);
 }
 </style>
 
-<div class="role-boxes">
+<div class="role-grid">
   <div class="role-box">Data Analyst</div>
   <div class="role-box">Business Intelligence</div>
   <div class="role-box">Software Engineer</div>
