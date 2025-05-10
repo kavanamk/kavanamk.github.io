@@ -1,6 +1,12 @@
 title: Kavana Manvi Krishnamurthy
 logo: images/dp3.jpg
-description: The secret ingredient behind my great coding skills is - love.  Also discipline and consistency.  I am passionate about Machine Learning, Data Analytics, and solving tough problems (300+ on LeetCode!).
-#show_downloads: true
+description: >
+  The secret ingredient behind my great coding skills is love — and a lot of hours at Oracle!  
+  I bring a solid foundation in software engineering from my time at Oracle Health and a Master’s in Computer Science from DePaul University.  
+  I’m passionate about Machine Learning, Data Analytics, and solving tough problems (300+ on LeetCode!).
 theme: jekyll-theme-minimal
 
+<div style="display: flex; justify-content: center; align-items: center; gap: 2rem; margin-top: 1.5rem;">
+  <img src="images/oracle-logo.png" alt="Oracle Logo" style="height: 50px;" />
+  <img src="images/depaul-logo.png" alt="DePaul University Logo" style="height: 50px;" />
+</div>
