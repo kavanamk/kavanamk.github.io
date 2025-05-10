@@ -6,7 +6,4 @@ description: >
   I’m passionate about Machine Learning, Data Analytics, and solving tough problems (300+ on LeetCode!).
 theme: jekyll-theme-minimal
 
-<div style="display: flex; justify-content: center; align-items: center; gap: 2rem; margin-top: 1.5rem;">
-  <img src="images/oracle-logo.png" alt="Oracle Logo" style="height: 50px;" />
-  <img src="images/depaul-logo.png" alt="DePaul University Logo" style="height: 50px;" />
-</div>
+
