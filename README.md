@@ -87,21 +87,130 @@
 
 <h2 style="color: #2a7ae2;">PROJECTS</h2>
 
-**Obesity Level Classification (R)** | Collected, cleaned, and pre-processed data. Applied PCA and K-Means clustering. 92.95% accuracy using Decision Trees with pruning and KNN tuned for optimal k values.
+<style>
+.project-grid {
+  display: grid;
+  grid-template-columns: 1fr;
+  gap: 2rem;
+  max-width: 900px;
+  margin: 2rem auto;
+}
 
-**Text Classification (Python, NLTK)** | Built a sentiment analysis pipeline using Bag of Words and TF-IDF with a Logistic Regression classifier. Trained on 2,000 samples and achieved 84.37% accuracy.
+.project-box {
+  background-color: #f3f3f3;
+  border: 1px solid #ccc;
+  border-radius: 12px;
+  padding: 1.5rem;
+  font-family: 'Helvetica Neue', sans-serif;
+  color: #333;
+  transition: transform 0.3s ease;
+  text-decoration: none;
+  display: block;
+}
 
-**Heart Failure Prediction (Python, scikit-learn)** | Implemented SVM (with grid search), Decision Trees, and ensemble methods including Random Forest, Bagging, and Boosting. Developed a weighted voting ensemble model that reached 88% accuracy.
+.project-box:hover {
+  transform: translateY(-4px);
+  box-shadow: 0 6px 10px rgba(0, 0, 0, 0.08);
+}
 
-**Autism Screening (Python, scikit-learn)** | Applied Mutual Information and Recursive Feature Elimination for feature selection. Evaluated models including XGBoost, SVM (RBF), Logistic Regression, Random Forest, and MLP using GridSearchCV. Achieved 97.2% cross-validation accuracy and 1.0 sensitivity with SVM-RBF.
+.project-title {
+  font-size: 1.2rem;
+  font-weight: 600;
+  color: #2a7ae2;
+  margin-bottom: 0.5rem;
+}
 
-**Generative AI** | TensorFlow 2 in the cloud. Gained hands-on experience with Restricted Boltzmann Machines, Variational Autoencoders, GAN, LLM and transformer-based NLP models. Projects included image generation, style transfer, deepfake creation, music composition, and game agent training using GAIL.
+.project-description {
+  font-size: 1rem;
+  margin-bottom: 1rem;
+}
 
-**Distributed File Retrieval Engine (Java, ZeroMQ, Multithreading, Ubuntu)** |  Built a distributed client-server file retrieval system using Java and ZeroMQ. Implemented multithreaded server with dispatcher/worker threads for concurrent requests. Designed centralised text indexing and ranked TF-based search.Evaluated scalability and performance using Linux VM on Chameleon Cloud.
+.skills {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 0.5rem;
+}
 
-**Gym DBMS (Java, JDBC, SQLite, Swing)** | Developed an interactive desktop application for gym membership management. Implemented full CRUD operations with local database storage via JDBC.
+.skill-tag {
+  background-color: #dce6f9;
+  color: #2a7ae2;
+  font-size: 0.85rem;
+  padding: 0.3rem 0.6rem;
+  border-radius: 999px;
+  font-weight: 500;
+}
+</style>
 
-**MVC Audio/Video Store App (Java, Design Patterns)** | Created a media store desktop GUI using MVC architecture. Applied classic design patterns to handle user interaction, model updates, and UI display.
+<div class="project-grid">
+
+  <a class="project-box" href="https://github.com/kavanamk/Obesity-Level-Classification" target="_blank">
+    <div class="project-title">Obesity Level Classification (R)</div>
+    <div class="project-description">Collected, cleaned, and pre-processed data. Applied PCA and K-Means clustering. Achieved 92.95% accuracy using Decision Trees with pruning and KNN tuned for optimal k values.</div>
+    <div class="skills">
+      <div class="skill-tag">R</div>
+      <div class="skill-tag">PCA</div>
+      <div class="skill-tag">K-Means</div>
+      <div class="skill-tag">Decision Trees</div>
+      <div class="skill-tag">KNN</div>
+    </div>
+  </a>
+
+  <a class="project-box" href="https://github.com/kavanamk/Natural-Language-Processing-using-Python" target="_blank">
+    <div class="project-title">Text Classification (Python, NLTK)</div>
+    <div class="project-description">Built a sentiment analysis pipeline using Bag of Words and TF-IDF with a Logistic Regression classifier. Trained on 2,000 samples and achieved 84.37% accuracy.</div>
+    <div class="skills">
+      <div class="skill-tag">Python</div>
+      <div class="skill-tag">NLTK</div>
+      <div class="skill-tag">TF-IDF</div>
+      <div class="skill-tag">Logistic Regression</div>
+    </div>
+  </a>
+
+  <a class="project-box" href="https://github.com/kavanamk/Programming-ML-Applications/blob/main/Final%20Project/Final_Project.ipynb" target="_blank">
+    <div class="project-title">Heart Failure Prediction (Python, scikit-learn)</div>
+    <div class="project-description">Implemented SVM, Decision Trees, and ensemble methods. Developed a weighted voting model using Random Forest, Bagging, and Boosting, reaching 88% accuracy.</div>
+    <div class="skills">
+      <div class="skill-tag">Python</div>
+      <div class="skill-tag">scikit-learn</div>
+      <div class="skill-tag">SVM</div>
+      <div class="skill-tag">Ensemble Learning</div>
+      <div class="skill-tag">Random Forest</div>
+      <div class="skill-tag">Boosting</div>
+    </div>
+  </a>
+
+  <a class="project-box" href="https://github.com/kavanamk/Advanced-Machine-Learning/blob/main/AML/FinalProject/Kavana%20Autism%20Word%20doc.pdf" target="_blank">
+    <div class="project-title">Autism Screening (Python, scikit-learn)</div>
+    <div class="project-description">Used Mutual Information and Recursive Feature Elimination for feature selection. Evaluated XGBoost, SVM-RBF, Logistic Regression, Random Forest, and MLP. Achieved 97.2% CV accuracy and 1.0 sensitivity with SVM-RBF.</div>
+    <div class="skills">
+      <div class="skill-tag">Python</div>
+      <div class="skill-tag">scikit-learn</div>
+      <div class="skill-tag">XGBoost</div>
+      <div class="skill-tag">SVM</div>
+      <div class="skill-tag">MLP</div>
+    </div>
+  </a>
+
+  <a class="project-box" href="https://github.com/kavanamk/Generative-AI" target="_blank">
+    <div class="project-title">Generative AI</div>
+    <div class="project-description">Hands-on with RBMs, VAEs, GANs, and Transformers using TensorFlow 2. Built projects like image generation, deepfakes, music composition, and game agent training with GAIL.</div>
+    <div class="skills">
+      <div class="skill-tag">TensorFlow 2</div>
+      <div class="skill-tag">GAN</div>
+      <div class="skill-tag">VAE</div>
+      <div class="skill-tag">Transformers</div>
+      <div class="skill-tag">GAIL</div>
+    </div>
+  </a>
+
+  <a class="project-box" href="https://github.com/kavanamk/Distributed-Systems" target="_blank">
+    <div class="project-title">Distributed File Retrieval Engine (Java)</div>
+    <div class="project-description">Built a distributed client-server file retrieval system with Java and ZeroMQ. Implemented multithreaded dispatcher/worker server with TF-based ranked search on Chameleon Cloud.</div>
+    <div class="skills">
+      <div class="skill-tag">Java</div>
+      <div class="skill-tag">ZeroMQ</div>
+      <div class="skill-tag">Multithreading
+
 
 <h2 style="color: #2a7ae2;">I'm also an Expert in Data Sructurers, Algorithm and System design</h2> 
 
