@@ -2,6 +2,7 @@
 
 ### Master of Science, Computer Science
 ### Depaul University, Chicago. (GPA - 3.8)
+<img src="images/depaul.jpg" width="30"/> 
 
 **Foundational CS courses-** Object oriented programming, Distributed System, Database management system, Computer Programming, Algorithms and Data structures
 
@@ -15,6 +16,7 @@
 **Courses :** Mathematics, Physics, Chemistry Statistics, Data Structure, Algorithms, Compiler Design, Cybersecurity, Internet of things, UI Desgin, Microprocessor and Assembly language, Java, J2EE, Database, Computer Architecture, OpenGL, Computer Graphics, Big Data, Data mining, Artificial Intelligence, Software Engineering, Unix
 
 ## WORK EXPERIENCE
+<img src="images/oracle.jpg" width="30"/> 
 ### Software Engineer at Oracle
 
 •	Performed Defect correction and management of ETL sctipts and report produced using SQL, OCI and Tableau. 
@@ -27,6 +29,7 @@
 
 •	Conducted 35+ client issue investigations over 6 months to identify root causes.
 
+<img src="images/oracle.jpg" width="30"/> 
 ### Software Intern at Oracle
 
 •	Developed full-stack web features for internal business performance application (eBoard) using ReactJS, Spring Boot, PHP, SQL, HTML, CSS, JavaScript, jQuery, and AJAX.
