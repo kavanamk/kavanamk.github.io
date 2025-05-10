@@ -34,7 +34,7 @@
 </div>
 
 
-## EDUCATION
+<h2 style="color: #2a7ae2;">EDUCATION</h2>
 
 ### Master of Science, Computer Science
 ### <img src="images/depaul.jpg" width="30" style="vertical-align:middle;"/>  Depaul University, Chicago (GPA - 3.8)
@@ -51,7 +51,7 @@
 
 **Courses :** Mathematics, Physics, Chemistry Statistics, Data Structure, Algorithms, Compiler Design, Cybersecurity, Internet of things, UI Desgin, Microprocessor and Assembly language, Java, J2EE, Database, Computer Architecture, OpenGL, Computer Graphics, Big Data, Data mining, Artificial Intelligence, Software Engineering, Unix
 
-## WORK EXPERIENCE
+<h2 style="color: #2a7ae2;">WORK EXPERIENCE</h2>
 
 ### <img src="images/oracle.jpg" width="30" style="vertical-align:middle;"/> Software Engineer at Oracle
 
@@ -73,7 +73,8 @@
 
 •	Created summary and drill-down analytics reports used by directors and senior managers for performance oversight.
 
-## SKILLS 
+<h2 style="color: #2a7ae2;">SKILLS</h2>
+
 •	**Programming Language:** C, C++, Java, T-SQL,PL/SQL, Python, Scala, Apache Spark, R,Mysql etc
 
 •	**Web Technology:** HTML, CSS, JavaScript, PHP, jQuery, AJAX, ReactJS , JSON, XML
@@ -84,7 +85,7 @@
 
 •	**Soft skills:** effective communication, problem-solving skills, critical thinking, growth, curiosity, etc
 
-## PROJECTS 
+<h2 style="color: #2a7ae2;">PROJECTS</h2>
 
 **Obesity Level Classification (R)** | Collected, cleaned, and pre-processed data. Applied PCA and K-Means clustering. 92.95% accuracy using Decision Trees with pruning and KNN tuned for optimal k values.
 
