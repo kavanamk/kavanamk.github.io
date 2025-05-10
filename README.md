@@ -87,8 +87,6 @@
 
 <h2 style="color: #2a7ae2;">I'm also an Expert in Data Sructurers, Algorithm and System design</h2> 
 
-<h2 style="text-align:center; font-family:'Helvetica Neue', sans-serif; color:#2a7ae2;">Resources</h2>
-
 <style>
 .link-boxes {
   display: flex;
