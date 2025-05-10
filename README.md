@@ -11,7 +11,7 @@
 **Advanced Data Science courses-** Programming Machine Learning Algorithms, Advanced Machine Learning, Computer Vision
 
 ### Bachelors in Computer Science
-### NIE, India. (GPA - 3.3)
+### <img src="images/nieit.jpg" width="30" style="vertical-align:middle;"/> NIE, India. (GPA - 3.3)
 
 **Courses :** Mathematics, Physics, Chemistry Statistics, Data Structure, Algorithms, Compiler Design, Cybersecurity, Internet of things, UI Desgin, Microprocessor and Assembly language, Java, J2EE, Database, Computer Architecture, OpenGL, Computer Graphics, Big Data, Data mining, Artificial Intelligence, Software Engineering, Unix
 
