@@ -103,5 +103,42 @@
 
 **MVC Audio/Video Store App (Java, Design Patterns)** | Created a media store desktop GUI using MVC architecture. Applied classic design patterns to handle user interaction, model updates, and UI display.
 
+<h2 style="color: #2a7ae2;">I'm also an Expert in Data Sructurers, Algorithm and System design</h2> 
+
+<style>
+.link-boxes {
+  display: flex;
+  justify-content: center;
+  gap: 1.5rem;
+  margin: 2rem auto;
+  max-width: 600px;
+}
+
+.link-box {
+  flex: 1 1 45%;
+  background-color: #f3f3f3;
+  border: 1px solid #ccc;
+  border-radius: 8px;
+  padding: 1.5rem;
+  text-align: center;
+  font-family: 'Helvetica Neue', sans-serif;
+  font-size: 1.1rem;
+  color: #2a7ae2;
+  text-decoration: none;
+  transition: transform 0.3s ease, box-shadow 0.3s ease;
+}
+
+.link-box:hover {
+  transform: translateY(-4px);
+  box-shadow: 0 6px 10px rgba(0, 0, 0, 0.08);
+}
+</style>
+
+<div class="link-boxes">
+  <a class="link-box" href="https://github.com/kavanamk/Educative-DSA" target="_blank">DSA</a>
+  <a class="link-box" href="https://github.com/kavanamk/Educative-System-Design" target="_blank">System Design</a>
+</div>
+
+
 
 
