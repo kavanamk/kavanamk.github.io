@@ -209,7 +209,12 @@
     <div class="skills">
       <div class="skill-tag">Java</div>
       <div class="skill-tag">ZeroMQ</div>
-      <div class="skill-tag">Multithreading
+      <div class="skill-tag">Multithreading</div>
+      <div class="skill-tag">Chameleon Cloud</div>
+    </div>
+  </a>
+
+</div>
 
 
 <h2 style="color: #2a7ae2;">I'm also an Expert in Data Sructurers, Algorithm and System design</h2> 
