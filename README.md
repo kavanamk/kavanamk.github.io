@@ -179,7 +179,7 @@
 </style>
 
 <div class="project-grid">
-### Data Analysis and Vizualization
+ <h3>Data Analysis and Vizualization </h3>
   <a class="project-box" href="https://github.com/kavanamk/Distributed-Systems" target="_blank">
     <div class="project-title">Baby weight Prediction</div>
     <div class="project-description">Built a Regression model to predict baby weight based on mother's pregnancy charecters</div>
@@ -200,7 +200,7 @@
       <div class="skill-tag">Data Vizualization</div>
     </div>
   </a>
-### Machine Learning
+ <h3>Machine Learning</h3>
   <a class="project-box" href="https://github.com/kavanamk/Obesity-Level-Classification" target="_blank">
     <div class="project-title">Obesity Level Classification</div>
     <div class="project-description">Collected, cleaned, and pre-processed data. Applied PCA and K-Means clustering. Achieved 92.95% accuracy using Decision Trees with pruning and KNN tuned for optimal k values.</div>
@@ -260,7 +260,7 @@
       <div class="skill-tag">GAIL</div>
     </div>
   </a>
- ### Software Development
+  <h3>Software Development</h3>
   <a class="project-box" href="https://github.com/kavanamk/Distributed-Systems" target="_blank">
     <div class="project-title">Distributed File Retrieval Engine</div>
     <div class="project-description">Built a distributed client-server file retrieval system with Java and ZeroMQ. Implemented multithreaded dispatcher/worker server with TF-based ranked search on Chameleon Cloud.</div>
