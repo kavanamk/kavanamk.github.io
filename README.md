@@ -181,8 +181,9 @@
 <div class="project-grid">
  <h3>Data Analysis and Vizualization </h3>
   <a class="project-box" href="https://github.com/kavanamk/Distributed-Systems" target="_blank">
-    <div class="project-title">Baby weight Prediction</div>
-    <div class="project-description">Built a Regression model to predict baby weight based on mother's pregnancy charecters</div>
+    <div class="project-title">Predicting Birth Weight</div>
+    <div class="project-description">Built a Regression model for dataset with 36 explanatory variables and 108,082
+observations. We achieved only a 12% adjusted R-squared. Despite applying advanced modeling techniques—including forward and backward selection, interaction terms, second-order polynomials, and variable transformations—most of the variability in birth weight remained unexplained.</div>
     <div class="skills">
       <div class="skill-tag">R</div>
       <div class="skill-tag">Regression</div>
@@ -191,9 +192,13 @@
     </div>
   </a>
 
-  <a class="project-box" href="https://github.com/kavanamk/Distributed-Systems" target="_blank">
+  <a class="project-box" href="https://github.com/kavanamk/Data-Visualization/blob/main/DV/Final%20Report%20Data%20Vizards.pdf" target="_blank">
     <div class="project-title">Police Killing Dashboard</div>
-    <div class="project-description">Built in Tableau and R</div>
+    <div class="project-description">Our visualizations provide multiple perspectives on police killings.Sankey Plot shows the flow between age, race,
+and unarmed incidents, and the Bar Graph focuses on killings of unarmed, non-attacking
+individuals by race. The Star Plot compares geographic risk across regions and races, and the
+Interactive Choropleth Map allows dynamic exploration by location, armed status, gender, race,
+and income.</div>
     <div class="skills">
       <div class="skill-tag">R</div>
       <div class="skill-tag">Tableau</div>
