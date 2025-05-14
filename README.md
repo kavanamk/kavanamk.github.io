@@ -1,3 +1,42 @@
+<h2 style="color: #2a7ae2;">EDUCATION</h2>
+
+### Master of Science, Computer Science
+### <img src="images/depaul.jpg" width="30" style="vertical-align:middle;"/>  Depaul University, Chicago (GPA - 3.8)
+
+
+**Foundational CS courses-** Object oriented programming, Distributed System, Database management system, Computer Programming, Algorithms and Data structures
+
+**Foundational Data Science courses-** Fundamentals of Data Science in R, Data Visualization, Data Regression and analysis, Image Processing 
+
+**Advanced Data Science courses-** Programming Machine Learning Algorithms, Advanced Machine Learning, Computer Vision
+
+### Bachelor of Science, Computer Science
+### <img src="images/nieit.jpg" width="30" style="vertical-align:middle;"/> NIE, India (GPA - 3.3)
+
+**Courses :** Mathematics, Physics, Chemistry Statistics, Data Structure, Algorithms, Compiler Design, Cybersecurity, Internet of things, UI Desgin, Microprocessor and Assembly language, Java, J2EE, Database, Computer Architecture, OpenGL, Computer Graphics, Big Data, Data mining, Artificial Intelligence, Software Engineering, Unix
+
+<h2 style="color: #2a7ae2;">WORK EXPERIENCE</h2>
+
+### <img src="images/oracle.jpg" width="30" style="vertical-align:middle;"/> Software Engineer at Oracle
+
+•	Performed Defect correction and management of ETL sctipts and report produced using SQL, OCI and Tableau. 
+
+•	Led full-stack development for 75+ Jira tickets, handling issue analysis, design, implementation, and testing.
+
+•	Improved code runtime from 6–7 hours to 40 seconds, earning 2022 “Innovate and Simplify” Quarterly Award.
+
+•	Recognised twice as “Star of the Sprint” for exceeding expectations with additional testing alongside sprint deliverables, removing roadblocks. 
+
+•	Conducted 35+ client issue investigations over 6 months to identify root causes.
+
+### <img src="images/oracle.jpg" width="30" style="vertical-align:middle;"/>  Software Intern at Oracle
+
+•	Developed full-stack web features for internal business performance application (eBoard) using ReactJS, Spring Boot, PHP, SQL, HTML, CSS, JavaScript, jQuery, and AJAX.
+
+•	Delivered 6+ data visualization dashboards displaying Jenkins job execution status, improving visibility for 30+ revenue cycle teams. Designed and implemented user-driven features and UI enhancements recognized by senior leadership for impact and design quality.
+
+•	Created summary and drill-down analytics reports used by directors and senior managers for performance oversight.
+
 ## I'd be a great fit for these roles 
 
 <style>
@@ -37,45 +76,6 @@
   <div class="link-box">Data Scientist</div>
 </div>
 
-
-<h2 style="color: #2a7ae2;">EDUCATION</h2>
-
-### Master of Science, Computer Science
-### <img src="images/depaul.jpg" width="30" style="vertical-align:middle;"/>  Depaul University, Chicago (GPA - 3.8)
-
-
-**Foundational CS courses-** Object oriented programming, Distributed System, Database management system, Computer Programming, Algorithms and Data structures
-
-**Foundational Data Science courses-** Fundamentals of Data Science in R, Data Visualization, Data Regression and analysis, Image Processing 
-
-**Advanced Data Science courses-** Programming Machine Learning Algorithms, Advanced Machine Learning, Computer Vision
-
-### Bachelor of Science, Computer Science
-### <img src="images/nieit.jpg" width="30" style="vertical-align:middle;"/> NIE, India (GPA - 3.3)
-
-**Courses :** Mathematics, Physics, Chemistry Statistics, Data Structure, Algorithms, Compiler Design, Cybersecurity, Internet of things, UI Desgin, Microprocessor and Assembly language, Java, J2EE, Database, Computer Architecture, OpenGL, Computer Graphics, Big Data, Data mining, Artificial Intelligence, Software Engineering, Unix
-
-<h2 style="color: #2a7ae2;">WORK EXPERIENCE</h2>
-
-### <img src="images/oracle.jpg" width="30" style="vertical-align:middle;"/> Software Engineer at Oracle
-
-•	Performed Defect correction and management of ETL sctipts and report produced using SQL, OCI and Tableau. 
-
-•	Led full-stack development for 75+ Jira tickets, handling issue analysis, design, implementation, and testing.
-
-•	Improved code runtime from 6–7 hours to 40 seconds, earning 2022 “Innovate and Simplify” Quarterly Award.
-
-•	Recognised twice as “Star of the Sprint” for exceeding expectations with additional testing alongside sprint deliverables, removing roadblocks. 
-
-•	Conducted 35+ client issue investigations over 6 months to identify root causes.
-
-### <img src="images/oracle.jpg" width="30" style="vertical-align:middle;"/>  Software Intern at Oracle
-
-•	Developed full-stack web features for internal business performance application (eBoard) using ReactJS, Spring Boot, PHP, SQL, HTML, CSS, JavaScript, jQuery, and AJAX.
-
-•	Delivered 6+ data visualization dashboards displaying Jenkins job execution status, improving visibility for 30+ revenue cycle teams. Designed and implemented user-driven features and UI enhancements recognized by senior leadership for impact and design quality.
-
-•	Created summary and drill-down analytics reports used by directors and senior managers for performance oversight.
 
 <h2 style="color: #2a7ae2;">SKILLS</h2>
 
