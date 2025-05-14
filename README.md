@@ -280,7 +280,14 @@ and income.</div>
 
 </div>
 
-
+<h2 style="color: #2a7ae2;">CERTIFICATES</h2>
+<div class="course-card" style="border: 1px solid #ddd; padding: 1rem; border-radius: 8px; max-width: 600px; margin: 2rem auto; box-shadow: 0 2px 8px rgba(0,0,0,0.05);">
+  <h2 style="margin-bottom: 0.5rem;">Machine Learning</h2>
+  <p style="font-size: 1rem; line-height: 1.5; color: #555;">
+    The course includes supervised learning (linear regression, logistic regression, neural networks), unsupervised learning (clustering, dimensionality reduction), and key concepts like model evaluation, bias-variance tradeoff, and regularization. It emphasizes intuition behind algorithms and uses Octave/MATLAB for hands-on practice.
+  </p>
+  <img src="images/ml.jpg" alt="Machine Learning Certificate" style="width: 100%; max-width: 100%; height: auto; margin-top: 1rem; border-radius: 6px;" />
+</div>
 
 
 
