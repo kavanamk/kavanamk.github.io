@@ -3,15 +3,15 @@
 <style>
 .link-boxes {
   display: flex;
-  flex-wrap: wrap;
   justify-content: center;
   gap: 1.5rem;
   margin: 2rem auto;
-  max-width: 600px;
+  max-width: 1200px;
+  flex-wrap: nowrap; /* Prevent wrapping to ensure 4 blocks stay in one row */
 }
 
 .link-box {
-  flex: 1 1 45%;
+  flex: 1 1 20%; /* Approx 25% with gap compensation */
   background-color: #f3f3f3;
   border: 1px solid #ccc;
   border-radius: 8px;
@@ -36,7 +36,6 @@
   <div class="link-box">Software Engineer</div>
   <div class="link-box">Data Scientist</div>
 </div>
-
 
 
 <h2 style="color: #2a7ae2;">EDUCATION</h2>
