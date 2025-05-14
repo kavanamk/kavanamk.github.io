@@ -293,7 +293,7 @@ and income.</div>
       The course includes supervised learning (linear regression, logistic regression, neural networks), unsupervised learning (clustering, dimensionality reduction), and key concepts like model evaluation, bias-variance tradeoff, and regularization. It emphasizes intuition behind algorithms and uses Octave/MATLAB for hands-on practice.
     </p>
     <div style="width: 100%; height: 300px; overflow: hidden; border-radius: 6px; margin-top: 1rem;">
-      <img src="/assets/images/ml-certificate.jpg" alt="Machine Learning Certificate" style="width: 100%; height: 100%; object-fit: cover; display: block;" />
+      <img src="images/ml.jpg" alt="Machine Learning Certificate" style="width: 100%; height: 100%; object-fit: cover; display: block;" />
     </div>
   </div>
 </a>
