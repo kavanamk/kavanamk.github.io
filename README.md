@@ -40,7 +40,8 @@
 
 
 
-<h2 style="color: #2a7ae2;">EDUCATION</h2>
+<h2 style="color: #2a7ae2; padding-top: 3rem;">EDUCATION</h2>
+
 
 ### Master of Science, Computer Science
 ### <img src="images/depaul.jpg" width="30" style="vertical-align:middle;"/>  Depaul University, Chicago (GPA - 3.8)
