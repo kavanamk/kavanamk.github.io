@@ -1,3 +1,45 @@
+<style>
+  .tabs-nav {
+    display: flex;
+    justify-content: center;
+    gap: 2rem;
+    background-color: #e9f0fc;
+    padding: 1rem 0;
+    position: sticky;
+    top: 0;
+    z-index: 1000;
+    border-bottom: 1px solid #ccc;
+    font-family: 'Helvetica Neue', sans-serif;
+  }
+
+  .tab-link {
+    font-size: 1rem;
+    font-weight: 600;
+    color: #2a7ae2;
+    text-decoration: none;
+    padding: 0.5rem 1rem;
+    border-radius: 6px;
+    transition: background-color 0.3s ease;
+  }
+
+  .tab-link:hover {
+    background-color: #dce6f9;
+  }
+
+  html {
+    scroll-behavior: smooth;
+  }
+</style>
+
+<div class="tabs-nav">
+  <a href="#work-experience" class="tab-link">Work</a>
+  <a href="#skills" class="tab-link">Skills</a>
+  <a href="#projects" class="tab-link">Projects</a>
+  <a href="#certificates" class="tab-link">Certificates</a>
+</div>
+
+
+
 <h2 style="color: #2a7ae2;">EDUCATION</h2>
 
 ### Master of Science, Computer Science
@@ -15,7 +57,7 @@
 
 **Courses :** Mathematics, Physics, Chemistry Statistics, Data Structure, Algorithms, Compiler Design, Cybersecurity, Internet of things, UI Desgin, Microprocessor and Assembly language, Java, J2EE, Database, Computer Architecture, OpenGL, Computer Graphics, Big Data, Data mining, Artificial Intelligence, Software Engineering, Unix
 
-<h2 style="color: #2a7ae2;">WORK EXPERIENCE</h2>
+<h2 id="work-experience" style="color: #2a7ae2;">WORK EXPERIENCE</h2>
 
 ### <img src="images/oracle.jpg" width="30" style="vertical-align:middle;"/> Software Engineer at Oracle
 
@@ -36,6 +78,10 @@
 •	Delivered 6+ data visualization dashboards displaying Jenkins job execution status, improving visibility for 30+ revenue cycle teams. Designed and implemented user-driven features and UI enhancements recognized by senior leadership for impact and design quality.
 
 •	Created summary and drill-down analytics reports used by directors and senior managers for performance oversight.
+
+
+
+<h2 id="skills" style="color: #2a7ae2;">SKILLS</h2>
 
 ## I'd be a great fit for these roles 
 
@@ -76,8 +122,6 @@
   <div class="link-box">Data Scientist</div>
 </div>
 
-
-<h2 style="color: #2a7ae2;">SKILLS</h2>
 
 •	**Programming Language:** C, C++, Java, T-SQL,PL/SQL, Python, Scala, Apache Spark, R,Mysql etc
 
@@ -126,7 +170,7 @@
 </div>
 
 
-<h2 style="color: #2a7ae2;">PROJECTS</h2>
+<h2 id="projects" style="color: #2a7ae2;">PROJECTS</h2>
 
 <style>
 .project-grid {
@@ -284,7 +328,7 @@ and income.</div>
 
 </div>
 
-<h2 style="color: #2a7ae2;">CERTIFICATES</h2>
+<h2 id="certificates" style="color: #2a7ae2;">CERTIFICATES</h2>
 
   <div class="course-card" style="border: 1px solid #ddd; padding: 1rem; border-radius: 8px; max-width: 600px; margin: 2rem auto; box-shadow: 0 2px 8px rgba(0,0,0,0.05); transition: transform 0.2s ease;">
     <h2 style="margin-bottom: 0.5rem;">Machine Learning</h2>
