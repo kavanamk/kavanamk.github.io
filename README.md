@@ -286,7 +286,6 @@ and income.</div>
 
 <h2 style="color: #2a7ae2;">CERTIFICATES</h2>
 
-<a href="https://www.coursera.org/account/accomplishments/verify/7U2NMCHGC8AX?utm_source=link&utm_medium=certificate&utm_content=cert_image&utm_campaign=pdf_header_button&utm_product=course" target="_blank" style="text-decoration: none; color: inherit;">
   <div class="course-card" style="border: 1px solid #ddd; padding: 1rem; border-radius: 8px; max-width: 600px; margin: 2rem auto; box-shadow: 0 2px 8px rgba(0,0,0,0.05); transition: transform 0.2s ease;">
     <h2 style="margin-bottom: 0.5rem;">Machine Learning</h2>
     <p style="font-size: 1rem; line-height: 1.5; color: #555;">
@@ -296,7 +295,6 @@ and income.</div>
       <img src="images/ml.jpg" alt="Machine Learning Certificate" style="width: 100%; height: 100%; object-fit: cover; display: block;" />
     </div>
   </div>
-</a>
 
 
 
