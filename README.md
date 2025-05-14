@@ -1,37 +1,42 @@
 ## I'd be a great fit for these roles 
+
 <style>
-.role-grid {
-  display: grid;
-  grid-template-columns: repeat(2, 1fr);
+.link-boxes {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
   gap: 1.5rem;
-  max-width: 600px;
   margin: 2rem auto;
+  max-width: 600px;
 }
 
-.role-box {
+.link-box {
+  flex: 1 1 45%;
   background-color: #f3f3f3;
   border: 1px solid #ccc;
   border-radius: 8px;
-  padding: 2rem;
+  padding: 1.5rem;
   text-align: center;
   font-family: 'Helvetica Neue', sans-serif;
   font-size: 1.1rem;
-  color: #333;
+  color: #2a7ae2;
+  text-decoration: none;
   transition: transform 0.3s ease, box-shadow 0.3s ease;
 }
 
-.role-box:hover {
+.link-box:hover {
   transform: translateY(-4px);
   box-shadow: 0 6px 10px rgba(0, 0, 0, 0.08);
 }
 </style>
 
-<div class="role-grid">
-  <div class="role-box">Data Analyst</div>
-  <div class="role-box">Business Intelligence</div>
-  <div class="role-box">Software Engineer</div>
-  <div class="role-box">Data Scientist</div>
+<div class="link-boxes">
+  <div class="link-box">Data Analyst</div>
+  <div class="link-box">Business Intelligence</div>
+  <div class="link-box">Software Engineer</div>
+  <div class="link-box">Data Scientist</div>
 </div>
+
 
 
 <h2 style="color: #2a7ae2;">EDUCATION</h2>
@@ -281,14 +286,18 @@ and income.</div>
 </div>
 
 <h2 style="color: #2a7ae2;">CERTIFICATES</h2>
-<div class="course-card" style="border: 1px solid #ddd; padding: 1rem; border-radius: 8px; max-width: 600px; margin: 2rem auto; box-shadow: 0 2px 8px rgba(0,0,0,0.05);">
-  <h2 style="margin-bottom: 0.5rem;">Machine Learning</h2>
-  <p style="font-size: 1rem; line-height: 1.5; color: #555;">
-    The course includes supervised learning (linear regression, logistic regression, neural networks), unsupervised learning (clustering, dimensionality reduction), and key concepts like model evaluation, bias-variance tradeoff, and regularization. It emphasizes intuition behind algorithms and uses Octave/MATLAB for hands-on practice.
-  </p>
-  <img src="images/ml.jpg" alt="Machine Learning Certificate" style="width: 100%; max-width: 100%; height: auto; margin-top: 1rem; border-radius: 6px;" />
-</div>
 
+<a href="https://www.coursera.org/account/accomplishments/verify/7U2NMCHGC8AX?utm_source=link&utm_medium=certificate&utm_content=cert_image&utm_campaign=pdf_header_button&utm_product=course" target="_blank" style="text-decoration: none; color: inherit;">
+  <div class="course-card" style="border: 1px solid #ddd; padding: 1rem; border-radius: 8px; max-width: 600px; margin: 2rem auto; box-shadow: 0 2px 8px rgba(0,0,0,0.05); transition: transform 0.2s ease;">
+    <h2 style="margin-bottom: 0.5rem;">Machine Learning</h2>
+    <p style="font-size: 1rem; line-height: 1.5; color: #555;">
+      The course includes supervised learning (linear regression, logistic regression, neural networks), unsupervised learning (clustering, dimensionality reduction), and key concepts like model evaluation, bias-variance tradeoff, and regularization. It emphasizes intuition behind algorithms and uses Octave/MATLAB for hands-on practice.
+    </p>
+    <div style="width: 100%; height: 300px; overflow: hidden; border-radius: 6px; margin-top: 1rem;">
+      <img src="/assets/images/ml-certificate.jpg" alt="Machine Learning Certificate" style="width: 100%; height: 100%; object-fit: cover; display: block;" />
+    </div>
+  </div>
+</a>
 
 
 
