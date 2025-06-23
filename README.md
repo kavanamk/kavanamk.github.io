@@ -40,6 +40,46 @@
 
 <img src="images/LLM-13.jpg"  style="vertical-align:middle;"/> 
 
+## I'd be a great fit for these roles 
+
+<style>
+.link-boxes {
+  display: flex;
+  justify-content: center;
+  gap: 1.5rem;
+  margin: 2rem auto;
+  max-width: 1200px;
+  flex-wrap: nowrap; /* Prevent wrapping to ensure 4 blocks stay in one row */
+}
+
+.link-box {
+  flex: 1 1 20%; /* Approx 25% with gap compensation */
+  background-color: #f3f3f3;
+  border: 1px solid #ccc;
+  border-radius: 8px;
+  padding: 1.5rem;
+  text-align: center;
+  font-family: 'Helvetica Neue', sans-serif;
+  font-size: 1.1rem;
+  color: #2a7ae2;
+  text-decoration: none;
+  transition: transform 0.3s ease, box-shadow 0.3s ease;
+}
+
+.link-box:hover {
+  transform: translateY(-4px);
+  box-shadow: 0 6px 10px rgba(0, 0, 0, 0.08);
+}
+</style>
+
+<div class="link-boxes">
+  <div class="link-box">Data Analyst</div>
+  <div class="link-box">Business Intelligence</div>
+  <div class="link-box">Software Engineer</div>
+  <div class="link-box">Data Scientist</div>
+</div>
+
+
 <h2 style="color: #2a7ae2; padding-top: 3rem;">EDUCATION</h2>
 
 
@@ -83,46 +123,6 @@
 
 
 <h2 id="skills" style="color: #2a7ae2;">SKILLS</h2>
-
-## I'd be a great fit for these roles 
-
-<style>
-.link-boxes {
-  display: flex;
-  justify-content: center;
-  gap: 1.5rem;
-  margin: 2rem auto;
-  max-width: 1200px;
-  flex-wrap: nowrap; /* Prevent wrapping to ensure 4 blocks stay in one row */
-}
-
-.link-box {
-  flex: 1 1 20%; /* Approx 25% with gap compensation */
-  background-color: #f3f3f3;
-  border: 1px solid #ccc;
-  border-radius: 8px;
-  padding: 1.5rem;
-  text-align: center;
-  font-family: 'Helvetica Neue', sans-serif;
-  font-size: 1.1rem;
-  color: #2a7ae2;
-  text-decoration: none;
-  transition: transform 0.3s ease, box-shadow 0.3s ease;
-}
-
-.link-box:hover {
-  transform: translateY(-4px);
-  box-shadow: 0 6px 10px rgba(0, 0, 0, 0.08);
-}
-</style>
-
-<div class="link-boxes">
-  <div class="link-box">Data Analyst</div>
-  <div class="link-box">Business Intelligence</div>
-  <div class="link-box">Software Engineer</div>
-  <div class="link-box">Data Scientist</div>
-</div>
-
 
 •	**Programming Language:** C, C++, Java, T-SQL,PL/SQL, Python, Scala, Apache Spark, R,Mysql etc
 
