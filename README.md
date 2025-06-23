@@ -40,7 +40,10 @@
 
 <img src="images/LLM-13.jpg"  style="vertical-align:middle;"/> 
 
-## I'd be a great fit for these roles 
+<h3 style="text-align: center; color: #2a7ae2;">
+  I'd be a great fit for these roles
+</h3>
+
 
 <style>
 .link-boxes {
