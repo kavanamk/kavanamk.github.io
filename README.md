@@ -38,7 +38,7 @@
   <a href="#certificates" class="tab-link">Certificates</a>
 </div>
 
-
+<img src="images/LLM-13.jpg"  style="vertical-align:middle;"/> 
 
 <h2 style="color: #2a7ae2; padding-top: 3rem;">EDUCATION</h2>
 
