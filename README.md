@@ -361,7 +361,7 @@ and income.</div>
 
   </p>
     <div style="width: 100%; height: 300px; overflow: hidden; border-radius: 6px; margin-top: 1rem;">
-      <img src="images/Educative_SystemDesign.jpg" alt="Machine Learning Certificate" style="width: 100%; height: 100%; object-fit: cover; display: block;" />
+      <img src="images/Educative_SysytemDesign.jpg" alt="Machine Learning Certificate" style="width: 100%; height: 100%; object-fit: cover; display: block;" />
     </div>
   </div>
 
