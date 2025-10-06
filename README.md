@@ -313,4 +313,15 @@ and income.</div>
   </div>
 </div>
 
-<div class="course-card" style="border: 1px solid #ddd; padding: 1rem; border-radius: 8px; max-width: 600px; margin: 2rem auto; box-shadow: 0 2px 8px rgba(0,0,0,0.05); transition: transform 0.2
+<div class="course-card" style="border: 1px solid #ddd; padding: 1rem; border-radius: 8px; max-width: 600px; margin: 2rem auto; box-shadow: 0 2px 8px rgba(0,0,0,0.05); transition: 
+transform 0.2s ease;">
+    <h2 style="margin-bottom: 0.5rem;">System Design</h2>
+    <p style="font-size: 1rem; line-height: 1.5; color: #555;">
+      Abstractions, consistency models. distributed computing 16 Building block architecture- CDN, DNS, Load Balancers, Key value store, Databases, NoSQL, Cache, BLOB, Monitering Systems, Distributed Search, Message Ques, Logging systems, Sequencer, Pub – sub, shared counter etc. Extensive system design of over 10 concepts like – Youtube, Instagram, Quora, Google/Apple Maps,Tiktok, Uber, Uber eats etc.
+
+  </p>
+    <div style="width: 100%; height: 300px; overflow: hidden; border-radius: 6px; margin-top: 1rem;">
+      <img src="images/Educative_SysytemDesign.jpg" alt="Machine Learning Certificate" style="width: 100%; height: 100%; object-fit: cover; display: block;" />
+    </div>
+  </div>
+
