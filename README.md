@@ -1,3 +1,38 @@
+<!-- Navigation Bar -->
+<style>
+  .navbar {
+    display: flex;
+    justify-content: center;
+    gap: 2rem;
+    background-color: #f8f9fa;
+    padding: 1rem 0;
+    font-family: "Poppins", sans-serif;
+    position: sticky;
+    top: 0;
+    z-index: 100;
+    box-shadow: 0 2px 6px rgba(0,0,0,0.1);
+  }
+
+  .navbar a {
+    text-decoration: none;
+    color: #2a7ae2;
+    font-weight: 600;
+    transition: color 0.3s ease;
+  }
+
+  .navbar a:hover {
+    color: #0056b3;
+  }
+</style>
+
+<div class="navbar">
+  <a href="#work-experience">Work</a>
+  <a href="#skills">Skills</a>
+  <a href="#projects">Projects</a>
+  <a href="#certificates">Certificates</a>
+</div>
+
+
 <img src="images/LLM-13.jpg" style="vertical-align:middle;"/> 
 
 <h3 style="text-align: center; color: #2a7ae2;">
