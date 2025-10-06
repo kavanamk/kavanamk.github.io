@@ -1,5 +1,10 @@
 <!-- Navigation Bar -->
 <style>
+
+  html {
+      scroll-padding-top: 80px; /* adjust 80px to match your navbar height */
+    }
+
   .navbar {
     display: flex;
     justify-content: center;
@@ -26,6 +31,7 @@
 </style>
 
 <div class="navbar">
+  <a href="#education">Education</a>
   <a href="#work-experience">Work</a>
   <a href="#skills">Skills</a>
   <a href="#projects">Projects</a>
@@ -126,7 +132,7 @@
 }
 </style>
 
-<h2 style="color: #2a7ae2; padding-top: 3rem;">EDUCATION</h2>
+<h2 id="education" style="color: #2a7ae2; padding-top: 3rem;">EDUCATION</h2>
 
 ### Master of Science, Computer Science
 ### <img src="images/depaul.jpg" width="30" style="vertical-align:middle;"/>  Depaul University, Chicago (GPA - 3.86)
