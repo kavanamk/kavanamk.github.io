@@ -7,11 +7,11 @@
 <style>
   .data-container {
     display: flex;
-    flex-wrap: wrap;
     justify-content: center;
     gap: 20px;
     font-family: "Poppins", sans-serif;
     margin: 40px 0;
+    flex-wrap: nowrap; /* Keep all boxes in one row */
   }
 
   .data-box {
@@ -23,6 +23,7 @@
     width: 220px;
     transition: all 0.3s ease;
     border-top: 4px solid #0078ff;
+    flex-shrink: 0; /* Prevent shrinking */
   }
 
   .data-box:hover {
@@ -57,6 +58,7 @@
     <div class="data-subtitle">Develop predictive & AI models</div>
   </div>
 </div>
+
 
 <style>
 .link-boxes {
