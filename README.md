@@ -3,6 +3,60 @@
 <h3 style="text-align: center; color: #2a7ae2;">
   I'd be a great fit for these roles
 </h3>
+<!-- ✨ Data Roles Section -->
+<style>
+  .data-container {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    gap: 20px;
+    font-family: "Poppins", sans-serif;
+    margin: 40px 0;
+  }
+
+  .data-box {
+    background: white;
+    padding: 30px;
+    border-radius: 16px;
+    box-shadow: 0 4px 12px rgba(0,0,0,0.1);
+    text-align: center;
+    width: 220px;
+    transition: all 0.3s ease;
+    border-top: 4px solid #0078ff;
+  }
+
+  .data-box:hover {
+    transform: translateY(-5px);
+    box-shadow: 0 8px 18px rgba(0,0,0,0.15);
+  }
+
+  .data-title {
+    font-size: 1.2rem;
+    font-weight: 600;
+    color: #333;
+  }
+
+  .data-subtitle {
+    font-size: 0.9rem;
+    color: #666;
+    margin-top: 8px;
+  }
+</style>
+
+<div class="data-container">
+  <div class="data-box">
+    <div class="data-title">Data Analyst</div>
+    <div class="data-subtitle">Transform data into insights</div>
+  </div>
+  <div class="data-box">
+    <div class="data-title">Data Engineer</div>
+    <div class="data-subtitle">Build data pipelines & systems</div>
+  </div>
+  <div class="data-box">
+    <div class="data-title">AI / ML Data Scientist</div>
+    <div class="data-subtitle">Develop predictive & AI models</div>
+  </div>
+</div>
 
 <style>
 .link-boxes {
@@ -74,13 +128,15 @@
 
 <h2 id="skills" style="color: #2a7ae2;">SKILLS</h2>
 
-•	**Programming Language:** C, C++, Java, T-SQL,PL/SQL, Python, Scala, Apache Spark, R,Mysql etc
+•	**Programming Language:** Pytho, R, C, Java, Scala, C++
+
+•	**Big Data:** HDFS, Spark, Hadoop, GCP- Cloud storage, BigQuery, Pub/Sub, Dataflow
+
+•	**Machine Learning:** TensorFlow, Pytorch, Keras, Octave, MATLAB, Generative AI, NLP, CV  etc
 
 •	**Web Technology:** HTML, CSS, JavaScript, PHP, jQuery, AJAX, ReactJS , JSON, XML
 
-•	**Machine Learning:** TensorFlow, Octave, MATLAB,  Tableau, Pytorch, deep learning, etc
-
-•	**Others:** Git, SVM, Excel, MS Office, SDLC – Agile and Jira, Jenkins, CI/CD
+•	**Others:** Git, SVM, Subversion Excel, MS Office, SDLC – Agile and Jira, Jenkins, CI/CD
 
 •	**Soft skills:** effective communication, problem-solving skills, critical thinking, growth, curiosity, etc
 
