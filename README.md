@@ -31,7 +31,6 @@
 </style>
 
 <div class="navbar">
-  <a href="#education">Education</a>
   <a href="#work-experience">Work</a>
   <a href="#skills">Skills</a>
   <a href="#projects">Projects</a>
@@ -147,6 +146,8 @@
 ### <img src="images/nieit.jpg" width="30" style="vertical-align:middle;"/> NIE, India 
 
 **Courses :** Mathematics, Physics, Chemistry Statistics, Data Structure, Algorithms, Compiler Design, Cybersecurity, Internet of things, UI Desgin, Microprocessor and Assembly language, Java, J2EE, Database, Computer Architecture, OpenGL, Computer Graphics, Big Data, Data mining, Artificial Intelligence, Software Engineering, Unix
+
+
 
 <h2 id="work-experience" style="color: #2a7ae2;">WORK EXPERIENCE</h2>
 
