@@ -75,13 +75,6 @@
 }
 </style>
 
-<div class="link-boxes">
-  <div class="link-box">Data Analyst</div>
-  <div class="link-box">Business Intelligence</div>
-  <div class="link-box">Software Engineer</div>
-  <div class="link-box">Data Scientist</div>
-</div>
-
 
 <h2 style="color: #2a7ae2; padding-top: 3rem;">EDUCATION</h2>
 
@@ -97,7 +90,7 @@
 **Advanced Data Science courses-** Programming Machine Learning Algorithms, Advanced Machine Learning, Computer Vision
 
 ### Bachelor of Science, Computer Science
-### <img src="images/nieit.jpg" width="30" style="vertical-align:middle;"/> NIE, India (GPA - 3.3)
+### <img src="images/nieit.jpg" width="30" style="vertical-align:middle;"/> NIE, India 
 
 **Courses :** Mathematics, Physics, Chemistry Statistics, Data Structure, Algorithms, Compiler Design, Cybersecurity, Internet of things, UI Desgin, Microprocessor and Assembly language, Java, J2EE, Database, Computer Architecture, OpenGL, Computer Graphics, Big Data, Data mining, Artificial Intelligence, Software Engineering, Unix
 
