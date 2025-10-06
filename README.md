@@ -251,6 +251,41 @@ and income.</div>
     </div>
   </a>
  <h3>Machine Learning</h3>
+<a class="project-box" href="https://github.com/kavanamk/Advanced-Machine-Learning/blob/main/AML/FinalProject/Kavana%20Autism%20Word%20doc.pdf" target="_blank">
+    <div class="project-title">Credit Risk</div>
+    <div class="project-description"> Engineered features and consolidated 30K+ loan purposes using TF-IDF + OpenAI API, enabling a 94% accurate credit risk. Trained and optimized Logistic Regression, Random Forest, and XGBoost using GridSearchCV, evaluating with AUC, F1, and profit curves to capture both predictive power and business value.(Natural Language processing in a unique way)</div>
+    <div class="skills">
+      <div class="skill-tag">Python</div>
+      <div class="skill-tag">scikit-learn</div>
+      <div class="skill-tag">Open-AI API</div>
+      <div class="skill-tag">NLP</div>
+      <div class="skill-tag">TF-IDF</div>
+    </div>
+  </a>
+ <a class="project-box" href="https://github.com/kavanamk/Advanced-Machine-Learning/blob/main/AML/FinalProject/Kavana%20Autism%20Word%20doc.pdf" target="_blank">
+    <div class="project-title">Autism Screening</div>
+    <div class="project-description">Used Mutual Information and Recursive Feature Elimination for feature selection. Evaluated XGBoost, SVM-RBF, Logistic Regression, Random Forest, and MLP. Achieved 97.2% CV accuracy and 1.0 sensitivity with SVM-RBF.</div>
+    <div class="skills">
+      <div class="skill-tag">Python</div>
+      <div class="skill-tag">scikit-learn</div>
+      <div class="skill-tag">XGBoost</div>
+      <div class="skill-tag">SVM</div>
+      <div class="skill-tag">MLP</div>
+    </div>
+  </a>
+
+  <a class="project-box" href="https://github.com/kavanamk/Generative-AI" target="_blank">
+    <div class="project-title">Generative AI</div>
+    <div class="project-description">Hands-on with RBMs, VAEs, GANs, and Transformers using TensorFlow 2. Built projects like image generation, deepfakes, music composition, and game agent training with GAIL.</div>
+    <div class="skills">
+      <div class="skill-tag">TensorFlow 2</div>
+      <div class="skill-tag">GAN</div>
+      <div class="skill-tag">VAE</div>
+      <div class="skill-tag">Transformers</div>
+      <div class="skill-tag">GAIL</div>
+    </div>
+  </a>
+  
   <a class="project-box" href="https://github.com/kavanamk/Obesity-Level-Classification" target="_blank">
     <div class="project-title">Obesity Level Classification</div>
     <div class="project-description">Collected, cleaned, and pre-processed data. Applied PCA and K-Means clustering. Achieved 92.95% accuracy using Decision Trees with pruning and KNN tuned for optimal k values.</div>
@@ -287,29 +322,7 @@ and income.</div>
     </div>
   </a>
 
-  <a class="project-box" href="https://github.com/kavanamk/Advanced-Machine-Learning/blob/main/AML/FinalProject/Kavana%20Autism%20Word%20doc.pdf" target="_blank">
-    <div class="project-title">Autism Screening</div>
-    <div class="project-description">Used Mutual Information and Recursive Feature Elimination for feature selection. Evaluated XGBoost, SVM-RBF, Logistic Regression, Random Forest, and MLP. Achieved 97.2% CV accuracy and 1.0 sensitivity with SVM-RBF.</div>
-    <div class="skills">
-      <div class="skill-tag">Python</div>
-      <div class="skill-tag">scikit-learn</div>
-      <div class="skill-tag">XGBoost</div>
-      <div class="skill-tag">SVM</div>
-      <div class="skill-tag">MLP</div>
-    </div>
-  </a>
-
-  <a class="project-box" href="https://github.com/kavanamk/Generative-AI" target="_blank">
-    <div class="project-title">Generative AI</div>
-    <div class="project-description">Hands-on with RBMs, VAEs, GANs, and Transformers using TensorFlow 2. Built projects like image generation, deepfakes, music composition, and game agent training with GAIL.</div>
-    <div class="skills">
-      <div class="skill-tag">TensorFlow 2</div>
-      <div class="skill-tag">GAN</div>
-      <div class="skill-tag">VAE</div>
-      <div class="skill-tag">Transformers</div>
-      <div class="skill-tag">GAIL</div>
-    </div>
-  </a>
+  
   <h3>Software Development</h3>
   <a class="project-box" href="https://github.com/kavanamk/Distributed-Systems" target="_blank">
     <div class="project-title">Distributed File Retrieval Engine</div>
