@@ -221,17 +221,16 @@
   <a class="link-box" href="https://github.com/kavanamk/Educative-System-Design" target="_blank">System Design</a>
 </div>
 
-<h2 href = "https://kavanamlstuff.blogspot.com/" id="ml-blog" style="color: #2a7ae2; padding-top: 3rem;">MACHINE LEARNING BLOG</h2>
+<h2  id="ml-blog" style="color: #2a7ae2; padding-top: 3rem;">MACHINE LEARNING BLOG</h2>
 
 <div class="project-box" style="max-width: 900px; margin: 2rem auto;">
-  <div class="project-title">Exploring Generative AI in Practice</div>
   <div style="width: 100%; height: 300px; overflow: hidden; border-radius: 12px; margin: 1rem 0;">
     <img src="images/MLblog.jpg" alt="ML Blog Flowchart" style="width: 100%; height: 100%; object-fit: cover; display: block;" />
   </div>
   <div class="project-description">
     As a Machine Learning practitioner, I translate complex data into actionable, intelligent solutions. My expertise spans the entire ML lifecycle, from rigorous data preparation and statistical modeling to implementing cutting-edge Deep Learning and Generative AI architectures. I focus on building and deploying scalable models, including Supervised, Unsupervised, and Reinforcement Learning systems, consistently driving innovation by turning theoretical concepts into robust, real-world predictive and creative applications.
   </div>
-  <a href="https://yourbloglink.com" target="_blank" class="skill-tag" style="margin-top: 1rem; display: inline-block;">Read Full Blog</a>
+  <a href="https://kavanamlstuff.blogspot.com/" target="_blank" class="skill-tag" style="margin-top: 1rem; display: inline-block;">Read Full Blog</a>
 </div>
 
 <h2 id="projects" style="color: #2a7ae2;">PROJECTS</h2>
