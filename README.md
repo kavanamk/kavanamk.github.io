@@ -104,7 +104,6 @@
   color: white;
   border-radius: 16px;
   padding: 20px 25px;
-  width: 320px;
   box-shadow: 0 4px 10px rgba(0,0,0,0.1);
   transition: transform 0.2s ease, box-shadow 0.2s ease;
 }
@@ -118,6 +117,7 @@
   font-size: 1.4em;
   font-weight: 600;
   margin-bottom: 5px;
+  color: #ffffff;
 }
 
 .data-subtitle {
@@ -149,7 +149,7 @@
 }
 </style>
 
-</style>
+
 
 <div class="data-container">
   <div class="data-box">
