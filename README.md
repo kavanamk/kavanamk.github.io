@@ -82,6 +82,14 @@
     color: #666;
     margin-top: 8px;
   }
+  .skill-tag {
+  background-color: #dce6f9;
+  color: #2a7ae2;
+  font-size: 0.85rem;
+  padding: 0.3rem 0.6rem;
+  border-radius: 999px;
+  font-weight: 500;
+}
 </style>
 
 <div class="data-container">
