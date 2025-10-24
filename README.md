@@ -172,6 +172,8 @@
     <div class="data-bubbles">
       <span class="skill-tag">ETL Pipelines</span>
       <span class="skill-tag">SQL (3+ years)</span>
+      <span class="skill-tag">GCP</span>
+      <span class="skill-tag">Pandas</span>
       <span class="skill-tag">Tableau Data Visualization</span>
     </div>
   </div>
