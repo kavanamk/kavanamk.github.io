@@ -100,13 +100,14 @@
 }
 
 .data-box {
-  background-color: #1e3a8a; /* deep blue */
+  background-color: #2a7ae2; /* deep blue */
   color: white;
   border-radius: 16px;
   padding: 20px 25px;
   box-shadow: 0 4px 10px rgba(0,0,0,0.1);
   transition: transform 0.2s ease, box-shadow 0.2s ease;
   width: 80%;
+
 }
 
 .data-box:hover {
