@@ -90,6 +90,65 @@
   border-radius: 999px;
   font-weight: 500;
 }
+  <style>
+.data-container {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 20px;
+  justify-content: center;
+  font-family: 'Poppins', sans-serif;
+}
+
+.data-box {
+  background-color: #1e3a8a; /* deep blue */
+  color: white;
+  border-radius: 16px;
+  padding: 20px 25px;
+  width: 320px;
+  box-shadow: 0 4px 10px rgba(0,0,0,0.1);
+  transition: transform 0.2s ease, box-shadow 0.2s ease;
+}
+
+.data-box:hover {
+  transform: translateY(-5px);
+  box-shadow: 0 6px 16px rgba(0,0,0,0.15);
+}
+
+.data-title {
+  font-size: 1.4em;
+  font-weight: 600;
+  margin-bottom: 5px;
+}
+
+.data-subtitle {
+  font-size: 0.95em;
+  color: #e0e7ff; /* lighter text */
+  margin-bottom: 12px;
+}
+
+.data-bubbles {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 8px;
+}
+
+.skill-tag {
+  background-color: #3b82f6; /* light blue */
+  color: white;
+  padding: 6px 12px;
+  border-radius: 20px;
+  font-size: 0.85em;
+  font-weight: 500;
+  white-space: nowrap;
+  transition: background-color 0.2s ease, transform 0.2s ease;
+}
+
+.skill-tag:hover {
+  background-color: #2563eb; /* darker blue on hover */
+  transform: scale(1.05);
+}
+</style>
+
 </style>
 
 <div class="data-container">
