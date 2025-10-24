@@ -89,11 +89,11 @@
     <div class="data-title">Data Analyst</div>
     <div class="data-subtitle">Transform data into insights</div>
     <div class="data-bubbles">
-      <span class="bubble">SQL (3+ years)</span>
-      <span class="bubble">R</span>
-      <span class="bubble">Python (NumPy, Pandas)</span>
-      <span class="bubble">Excel</span>
-      <span class="bubble">Tableau</span>
+      <span class="skill-tag">SQL (3+ years)</span>
+      <span class="skill-tag">R</span>
+      <span class="skill-tag">Python (NumPy, Pandas)</span>
+      <span class="skill-tag">Excel</span>
+      <span class="skill-tag">Tableau</span>
     </div>
   </div>
 
@@ -101,9 +101,9 @@
     <div class="data-title">Data Engineer</div>
     <div class="data-subtitle">Build data pipelines & systems</div>
     <div class="data-bubbles">
-      <span class="bubble">ETL Pipelines</span>
-      <span class="bubble">SQL (3+ years)</span>
-      <span class="bubble">Tableau Data Visualization</span>
+      <span class="skill-tag">ETL Pipelines</span>
+      <span class="skill-tag">SQL (3+ years)</span>
+      <span class="skill-tag">Tableau Data Visualization</span>
     </div>
   </div>
 
@@ -111,12 +111,12 @@
     <div class="data-title">AI / ML Data Scientist</div>
     <div class="data-subtitle">Develop predictive & AI models</div>
     <div class="data-bubbles">
-      <span class="bubble">SQL</span>
-      <span class="bubble">R</span>
-      <span class="bubble">Python (scikit-learn, TensorFlow/Keras, PyTorch)</span>
-      <span class="bubble">Predictive Modeling</span>
-      <span class="bubble">Statistical Analysis</span>
-      <span class="bubble">GenAI</span>
+      <span class="skill-tag">SQL</span>
+      <span class="skill-tag">R</span>
+      <span class="skill-tag">Python (scikit-learn, TensorFlow/Keras, PyTorch)</span>
+      <span class="skill-tag">Predictive Modeling</span>
+      <span class="skill-tag">Statistical Analysis</span>
+      <span class="skill-tag">GenAI</span>
     </div>
   </div>
 </div>
