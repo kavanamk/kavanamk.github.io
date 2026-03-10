@@ -138,13 +138,14 @@
 
   <div class="data-box">
     <div class="data-title">Data Engineer</div>
-    <div class="data-subtitle">Build data pipelines & systems</div>
+    <div class="data-subtitle">Build data pipelines & Data Lakehouses</div>
     <div class="data-bubbles">
       <span class="skill-tag">ETL Pipelines</span>
       <span class="skill-tag">SQL (3+ years)</span>
+      <span class="skill-tag">Spark / Pyspark</span>
+      <span class="skill-tag">AWS S3</span>
       <span class="skill-tag">GCP</span>
-      <span class="skill-tag">Pandas</span>
-      <span class="skill-tag">Tableau Data Visualization</span>
+      <span class="skill-tag">Snowflake</span>
     </div>
   </div>
 
@@ -157,7 +158,11 @@
       <span class="skill-tag">Python (scikit-learn, TensorFlow/Keras, PyTorch)</span>
       <span class="skill-tag">Predictive Modeling</span>
       <span class="skill-tag">Statistical Analysis</span>
-      <span class="skill-tag">GenAI</span>
+      <span class="skill-tag">Generative AI</span>
+      <span class="skill-tag">LLMs</span>
+      <span class="skill-tag">Multi-Agents</span>
+      <span class="skill-tag">RAG</span>
+      <span class="skill-tag">Vector Databases</span>
     </div>
   </div>
 </div>
