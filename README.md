@@ -1,4 +1,4 @@
-<!DOCTYPE html>
+
 <html lang="en">
 <head>
   <meta charset="UTF-8" />
@@ -370,7 +370,7 @@
             <svg width="14" height="14" viewBox="0 0 24 24" fill="#ff2d78"><path d="M19 3H5a2 2 0 00-2 2v14a2 2 0 002 2h14a2 2 0 002-2V5a2 2 0 00-2-2zm-5 14H7v-2h7v2zm3-4H7v-2h10v2zm0-4H7V7h10v2z"/></svg>
             ML Blog
           </a>
-          <a class="social-btn" href="https://x.com/kavanamk" target="_blank">
+          <a class="social-btn" href="https://x.com/kavmlstuff" target="_blank">
             <svg width="14" height="14" viewBox="0 0 24 24" fill="#ff2d78"><path d="M18.244 2.25h3.308l-7.227 8.26 8.502 11.24H16.17l-5.214-6.817L4.99 21.75H1.68l7.73-8.835L1.254 2.25H8.08l4.713 6.231zm-1.161 17.52h1.833L7.084 4.126H5.117z"/></svg>
             X / Twitter
           </a>
