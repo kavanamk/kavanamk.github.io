@@ -66,8 +66,8 @@
 
     .hero-photo {
       flex-shrink: 0;
-      width: 150px;
-      height: 150px;
+      width: 250px;
+      height: 250px;
       border-radius: 50%;
       object-fit: cover;
       border: 3px solid #ff2d78;
