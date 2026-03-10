@@ -350,12 +350,12 @@
   <div class="hero">
     <h1>Kavana Manvi Krishnamurthy</h1>
     <div class="hero-body">
-      <img src="images/dp5.jpg" alt="Kavana Manvi Krishnamurthy" class="hero-photo" />
+      <img src="images/dp6.jpg" alt="Kavana Manvi Krishnamurthy" class="hero-photo" />
       <div class="hero-text">
         <p>
           The secret ingredient behind my great coding skills is love — and a lot of discipline!
           I bring a solid foundation in software engineering from my time at Oracle and a Master's in Computer Science.
-          I'm passionate about Machine Learning, Data Analytics, and solving tough problems (300+ on LeetCode!).
+          I'm passionate about Machine Learning, Data Analytics, creating end-to-end Data Pipelines, and solving tough problems. I am also an avid learner who tries to learn everything from algorithmic design to how distributed systems work. I have a blog where I break down all the math behind ML algorithms - a lot of Probability, Statistics and Calculus!
         </p>
         <div class="social-links">
           <a class="social-btn" href="https://linkedin.com/in/kavanamk" target="_blank">
